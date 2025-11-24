@@ -20,3 +20,7 @@ https://cloud.google.com/blog/products/infrastructure-modernization/kakaos-journ
 From silicon to softmax: Inside the Ironwood AI stack
 
 https://cloud.google.com/blog/products/compute/inside-the-ironwood-tpu-codesigned-ai-stack?e=48754805
+
+How Lightricks trains video diffusion models at scale with JAX on TPU
+
+https://cloud.google.com/blog/products/media-entertainment/how-lightricks-trains-video-diffusion-models-at-scale-with-jax-on-tpu?e=48754805

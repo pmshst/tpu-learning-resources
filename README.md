@@ -42,3 +42,7 @@ Building production AI on Google Cloud TPUs with JAX
 https://docs.cloud.google.com/tpu/docs/jax-ai-stack
 
 https://developers.googleblog.com/building-production-ai-on-google-cloud-tpus-with-jax/
+
+Training Recipes for Ironwood TPU
+
+https://github.com/AI-Hypercomputer/tpu-recipes/blob/main/training/ironwood/README.md

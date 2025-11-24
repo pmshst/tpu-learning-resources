@@ -12,3 +12,9 @@ https://github.com/sgl-project/sglang-jax
 https://github.com/vllm-project/tpu-inference
 
 https://github.com/AI-Hypercomputer/maxtext
+
+An efficient path to production AI: Kakao’s journey with JAX and Cloud TPUs
+https://cloud.google.com/blog/products/infrastructure-modernization/kakaos-journey-with-jax-and-cloud-tpus?e=48754805
+
+From silicon to softmax: Inside the Ironwood AI stack
+https://cloud.google.com/blog/products/compute/inside-the-ironwood-tpu-codesigned-ai-stack?e=48754805

@@ -32,3 +32,7 @@ https://www.youtube.com/watch?v=n3XGjrRkFJk
 JAX/OpenXLA DevLab 2025 - Large scale training techniques and best practices
 
 https://www.youtube.com/watch?v=ep6ISVDG_i4&t=3502s
+
+Building and serving the next generation AI Models with JAX
+
+https://www.youtube.com/watch?v=fcI9A-pjNlU&t=2104s

@@ -36,3 +36,9 @@ https://www.youtube.com/watch?v=ep6ISVDG_i4&t=3502s
 Building and serving the next generation AI Models with JAX
 
 https://www.youtube.com/watch?v=fcI9A-pjNlU&t=2104s
+
+Building production AI on Google Cloud TPUs with JAX
+
+https://docs.cloud.google.com/tpu/docs/jax-ai-stack
+
+https://developers.googleblog.com/building-production-ai-on-google-cloud-tpus-with-jax/

@@ -24,3 +24,7 @@ https://cloud.google.com/blog/products/compute/inside-the-ironwood-tpu-codesigne
 How Lightricks trains video diffusion models at scale with JAX on TPU
 
 https://cloud.google.com/blog/products/media-entertainment/how-lightricks-trains-video-diffusion-models-at-scale-with-jax-on-tpu?e=48754805
+
+AI Hypercomputer and TPU (Tensor) acceleration with Google Cloud Rose Zhu
+
+https://www.youtube.com/watch?v=n3XGjrRkFJk

@@ -46,3 +46,7 @@ https://developers.googleblog.com/building-production-ai-on-google-cloud-tpus-wi
 Training Recipes for Ironwood TPU
 
 https://github.com/AI-Hypercomputer/tpu-recipes/blob/main/training/ironwood/README.md
+
+tpu7x configurations
+
+https://docs.cloud.google.com/tpu/docs/tpu7x#configurations

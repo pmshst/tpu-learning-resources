@@ -1,17 +1,17 @@
 # tpu-learning-resources
 
 ## Usefull Blog
-Xiaomi MiMo-V2.6 - https://peano-labs.ai/blog/scaling-mimo-tpus
-Kimi3 - https://inferact.ai/blog/tpu-megakernels
-Qwen3.5 https://github.com/aios-tpu-infra/tpu_benchmark_daily
-GLM 5.2 https://github.com/cszhz/sglang-jax
-https://github.com/Inferact/tpu-megakernels/tree/main
-https://github.com/rwitten/HighPerfLLMs2024
-https://newsletter.semianalysis.com/p/tpu-inferencex-full-steam
+* Xiaomi MiMo-V2.6 - https://peano-labs.ai/blog/scaling-mimo-tpus
+* Kimi3 - https://inferact.ai/blog/tpu-megakernels
+* Qwen3.5 https://github.com/aios-tpu-infra/tpu_benchmark_daily
+* GLM 5.2 https://github.com/cszhz/sglang-jax
+* https://github.com/Inferact/tpu-megakernels/tree/main
+* https://github.com/rwitten/HighPerfLLMs2024
+* https://newsletter.semianalysis.com/p/tpu-inferencex-full-steam
 
 ## k8s
-https://github.com/ai-on-gke/tpu-device-plugin
-https://github.com/ai-on-gke/slice-controller
+* https://github.com/ai-on-gke/tpu-device-plugin
+* https://github.com/ai-on-gke/slice-controller
 
 
 ## tpu topo

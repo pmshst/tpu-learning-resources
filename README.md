@@ -8,6 +8,7 @@
 * https://github.com/Inferact/tpu-megakernels/tree/main
 * https://github.com/rwitten/HighPerfLLMs2024
 * https://newsletter.semianalysis.com/p/tpu-inferencex-full-steam
+* https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/
 
 ## k8s
 * https://github.com/ai-on-gke/tpu-device-plugin

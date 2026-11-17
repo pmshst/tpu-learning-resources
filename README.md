@@ -10,6 +10,9 @@
 * https://newsletter.semianalysis.com/p/tpu-inferencex-full-steam
 * https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/
 * https://www.lmsys.org/blog/2026-06-17-ling-2-6-tpu
+* https://github.com/openxla/tokamax/blob/main/tokamax/_src/ops/splash_attention/microbenchmarks.pdf
+* https://github.com/AI-Hypercomputer/tpu-codesign/blob/main/docs/guide.md
+* https://github.com/AI-Hypercomputer/tpu-codesign/tree/main
 
 ## k8s
 * https://github.com/ai-on-gke/tpu-device-plugin

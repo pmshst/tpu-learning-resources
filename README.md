@@ -16,6 +16,7 @@
 * https://results.mlcommons.org/training#benchmark=deepseekv3_671b&round=v6.1
 * https://github.com/mlcommons/training_results_v6.1/tree/main/Google/benchmarks/qwen35_397b_grpo/implementations/tpu7x-4x4x8-128x2x2x1
 * https://results.mlcommons.org/training#benchmark=qwen35_397b_grpo&round=v6.1
+* https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/
   
 
 

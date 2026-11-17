@@ -13,6 +13,7 @@
 * https://github.com/openxla/tokamax/blob/main/tokamax/_src/ops/splash_attention/microbenchmarks.pdf
 * https://github.com/AI-Hypercomputer/tpu-codesign/blob/main/docs/guide.md
 * https://github.com/AI-Hypercomputer/tpu-codesign/tree/main
+* https://results.mlcommons.org/training#benchmark=deepseekv3_671b&round=v6.1
 
 ## k8s
 * https://github.com/ai-on-gke/tpu-device-plugin
